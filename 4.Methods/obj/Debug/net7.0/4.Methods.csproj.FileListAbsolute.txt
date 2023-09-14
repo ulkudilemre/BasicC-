@@ -1,0 +1,14 @@
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\bin\Debug\net7.0\4.Methods.exe
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\bin\Debug\net7.0\4.Methods.deps.json
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\bin\Debug\net7.0\4.Methods.runtimeconfig.json
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\bin\Debug\net7.0\4.Methods.dll
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\bin\Debug\net7.0\4.Methods.pdb
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\obj\Debug\net7.0\4.Methods.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\obj\Debug\net7.0\4.Methods.AssemblyInfoInputs.cache
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\obj\Debug\net7.0\4.Methods.AssemblyInfo.cs
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\obj\Debug\net7.0\4.Methods.csproj.CoreCompileInputs.cache
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\obj\Debug\net7.0\4.Methods.dll
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\obj\Debug\net7.0\refint\4.Methods.dll
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\obj\Debug\net7.0\4.Methods.pdb
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\obj\Debug\net7.0\4.Methods.genruntimeconfig.cache
+c:\Users\ulkud\GitHub\BasicC#\4.Methods\obj\Debug\net7.0\ref\4.Methods.dll

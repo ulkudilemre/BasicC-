@@ -1,0 +1,14 @@
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\bin\Debug\net7.0\3.Loops.exe
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\bin\Debug\net7.0\3.Loops.deps.json
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\bin\Debug\net7.0\3.Loops.runtimeconfig.json
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\bin\Debug\net7.0\3.Loops.dll
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\bin\Debug\net7.0\3.Loops.pdb
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\obj\Debug\net7.0\3.Loops.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\obj\Debug\net7.0\3.Loops.AssemblyInfoInputs.cache
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\obj\Debug\net7.0\3.Loops.AssemblyInfo.cs
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\obj\Debug\net7.0\3.Loops.csproj.CoreCompileInputs.cache
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\obj\Debug\net7.0\3.Loops.dll
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\obj\Debug\net7.0\refint\3.Loops.dll
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\obj\Debug\net7.0\3.Loops.pdb
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\obj\Debug\net7.0\3.Loops.genruntimeconfig.cache
+c:\Users\ulkud\GitHub\BasicC#\3.Loops\obj\Debug\net7.0\ref\3.Loops.dll

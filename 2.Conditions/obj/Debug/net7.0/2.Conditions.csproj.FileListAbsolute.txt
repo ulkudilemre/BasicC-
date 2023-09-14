@@ -1,0 +1,14 @@
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\obj\Debug\net7.0\2.Conditions.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\obj\Debug\net7.0\2.Conditions.AssemblyInfoInputs.cache
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\obj\Debug\net7.0\2.Conditions.AssemblyInfo.cs
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\obj\Debug\net7.0\2.Conditions.csproj.CoreCompileInputs.cache
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\bin\Debug\net7.0\2.Conditions.exe
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\bin\Debug\net7.0\2.Conditions.deps.json
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\bin\Debug\net7.0\2.Conditions.runtimeconfig.json
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\bin\Debug\net7.0\2.Conditions.dll
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\bin\Debug\net7.0\2.Conditions.pdb
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\obj\Debug\net7.0\2.Conditions.dll
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\obj\Debug\net7.0\refint\2.Conditions.dll
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\obj\Debug\net7.0\2.Conditions.pdb
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\obj\Debug\net7.0\2.Conditions.genruntimeconfig.cache
+c:\Users\ulkud\GitHub\BasicC#\2.Conditions\obj\Debug\net7.0\ref\2.Conditions.dll
