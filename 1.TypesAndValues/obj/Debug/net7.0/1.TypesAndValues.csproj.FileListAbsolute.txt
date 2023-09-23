@@ -12,3 +12,17 @@ c:\Users\ulkud\GitHub\BasicC#\1.TypesAndValues\obj\Debug\net7.0\refint\1.TypesAn
 c:\Users\ulkud\GitHub\BasicC#\1.TypesAndValues\obj\Debug\net7.0\1.TypesAndValues.pdb
 c:\Users\ulkud\GitHub\BasicC#\1.TypesAndValues\obj\Debug\net7.0\1.TypesAndValues.genruntimeconfig.cache
 c:\Users\ulkud\GitHub\BasicC#\1.TypesAndValues\obj\Debug\net7.0\ref\1.TypesAndValues.dll
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\bin\Debug\net7.0\1.TypesAndValues.exe
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\bin\Debug\net7.0\1.TypesAndValues.deps.json
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\bin\Debug\net7.0\1.TypesAndValues.runtimeconfig.json
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\bin\Debug\net7.0\1.TypesAndValues.dll
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\bin\Debug\net7.0\1.TypesAndValues.pdb
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\obj\Debug\net7.0\1.TypesAndValues.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\obj\Debug\net7.0\1.TypesAndValues.AssemblyInfoInputs.cache
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\obj\Debug\net7.0\1.TypesAndValues.AssemblyInfo.cs
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\obj\Debug\net7.0\1.TypesAndValues.csproj.CoreCompileInputs.cache
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\obj\Debug\net7.0\1.TypesAndValues.dll
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\obj\Debug\net7.0\refint\1.TypesAndValues.dll
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\obj\Debug\net7.0\1.TypesAndValues.pdb
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\obj\Debug\net7.0\1.TypesAndValues.genruntimeconfig.cache
+c:\Users\ulkud\Github\BasicC-\1.TypesAndValues\obj\Debug\net7.0\ref\1.TypesAndValues.dll

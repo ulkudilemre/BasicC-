@@ -1,0 +1,14 @@
+c:\Users\ulkud\Github\BasicC-\6.Strings\obj\Debug\net7.0\6.Strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ulkud\Github\BasicC-\6.Strings\obj\Debug\net7.0\6.Strings.AssemblyInfoInputs.cache
+c:\Users\ulkud\Github\BasicC-\6.Strings\obj\Debug\net7.0\6.Strings.AssemblyInfo.cs
+c:\Users\ulkud\Github\BasicC-\6.Strings\obj\Debug\net7.0\6.Strings.csproj.CoreCompileInputs.cache
+c:\Users\ulkud\Github\BasicC-\6.Strings\bin\Debug\net7.0\6.Strings.exe
+c:\Users\ulkud\Github\BasicC-\6.Strings\bin\Debug\net7.0\6.Strings.deps.json
+c:\Users\ulkud\Github\BasicC-\6.Strings\bin\Debug\net7.0\6.Strings.runtimeconfig.json
+c:\Users\ulkud\Github\BasicC-\6.Strings\bin\Debug\net7.0\6.Strings.dll
+c:\Users\ulkud\Github\BasicC-\6.Strings\bin\Debug\net7.0\6.Strings.pdb
+c:\Users\ulkud\Github\BasicC-\6.Strings\obj\Debug\net7.0\6.Strings.dll
+c:\Users\ulkud\Github\BasicC-\6.Strings\obj\Debug\net7.0\refint\6.Strings.dll
+c:\Users\ulkud\Github\BasicC-\6.Strings\obj\Debug\net7.0\6.Strings.pdb
+c:\Users\ulkud\Github\BasicC-\6.Strings\obj\Debug\net7.0\6.Strings.genruntimeconfig.cache
+c:\Users\ulkud\Github\BasicC-\6.Strings\obj\Debug\net7.0\ref\6.Strings.dll

@@ -1,0 +1,14 @@
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\bin\Debug\net7.0\5.ArraysAndLists.exe
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\bin\Debug\net7.0\5.ArraysAndLists.deps.json
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\bin\Debug\net7.0\5.ArraysAndLists.runtimeconfig.json
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\bin\Debug\net7.0\5.ArraysAndLists.dll
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\bin\Debug\net7.0\5.ArraysAndLists.pdb
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\obj\Debug\net7.0\5.ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\obj\Debug\net7.0\5.ArraysAndLists.AssemblyInfoInputs.cache
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\obj\Debug\net7.0\5.ArraysAndLists.AssemblyInfo.cs
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\obj\Debug\net7.0\5.ArraysAndLists.csproj.CoreCompileInputs.cache
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\obj\Debug\net7.0\5.ArraysAndLists.dll
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\obj\Debug\net7.0\refint\5.ArraysAndLists.dll
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\obj\Debug\net7.0\5.ArraysAndLists.pdb
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\obj\Debug\net7.0\5.ArraysAndLists.genruntimeconfig.cache
+c:\Users\ulkud\Github\BasicC-\5.ArraysAndLists\obj\Debug\net7.0\ref\5.ArraysAndLists.dll
